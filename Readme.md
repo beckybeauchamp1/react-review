@@ -80,6 +80,8 @@
 
 Create a simple react application that has at least two components, for a Button and Image. The goal is to toggle the display of any image of your choosing when you click the button.
 
+[See Solution](https://github.com/ga-wdi-exercises/react-component-review-exercise)
+
 ## React Tutorial
 
 https://facebook.github.io/react/docs/tutorial.html
